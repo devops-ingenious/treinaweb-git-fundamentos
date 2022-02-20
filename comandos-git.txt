@@ -6,3 +6,6 @@ git log
 
 git revert <hash do commit>
 git revert --abort
+
+git push -u origin master
+
