@@ -5,3 +5,4 @@ git commit -m "mensagem"
 git log
 
 git revert <hash do commit>
+git revert --abort
